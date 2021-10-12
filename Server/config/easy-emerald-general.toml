@@ -1,0 +1,19 @@
+
+#Tool Settings
+[tool_settings]
+	#Attack damage addtion [1-40, default: 3]
+	#Range: 0 ~ 40
+	attackDamageAddition = 3
+	#Extra Killing Exp [1-50, default: 25]
+	#Range: 0 ~ 50
+	extraKillingExp = 25
+	#Armor durability addition [1-50, default: 25]
+	#Range: 0 ~ 50
+	armorDurabilityAddition = 25
+	#Durability multiplier [1-40, default: 7]
+	#Range: 0 ~ 40
+	durabilityMultiplier = 7
+	#Tool efficiency [1-16, default: 7]
+	#Range: 0 ~ 16
+	toolEfficiency = 7
+
