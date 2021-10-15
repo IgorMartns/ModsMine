@@ -96,7 +96,7 @@
                 <orbitalPhi>281</orbitalPhi>
                 <peakInsolation>0.7120436220374214</peakInsolation>
                 <peakInsolationNoAtmosphere>0.7739645538191204</peakInsolationNoAtmosphere>
-                <avgTemperature>228</avgTemperature>
+                <avgTemperature>224</avgTemperature>
                 <rotationalPeriod>136661</rotationalPeriod>
                 <atmosphereDensity>31</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -118,7 +118,7 @@
                 <orbitalPhi>-156</orbitalPhi>
                 <peakInsolation>0.5479004066218047</peakInsolation>
                 <peakInsolationNoAtmosphere>0.5971511898677524</peakInsolationNoAtmosphere>
-                <avgTemperature>228</avgTemperature>
+                <avgTemperature>210</avgTemperature>
                 <rotationalPeriod>152415</rotationalPeriod>
                 <atmosphereDensity>32</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -162,7 +162,7 @@
                 <orbitalPhi>68</orbitalPhi>
                 <peakInsolation>0.3386107999835421</peakInsolation>
                 <peakInsolationNoAtmosphere>0.3740455813232806</peakInsolationNoAtmosphere>
-                <avgTemperature>219</avgTemperature>
+                <avgTemperature>187</avgTemperature>
                 <rotationalPeriod>1365498</rotationalPeriod>
                 <atmosphereDensity>37</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -207,7 +207,7 @@
                 <orbitalPhi>-39</orbitalPhi>
                 <peakInsolation>0.32046016566450514</peakInsolation>
                 <peakInsolationNoAtmosphere>0.3511503855393922</peakInsolationNoAtmosphere>
-                <avgTemperature>219</avgTemperature>
+                <avgTemperature>184</avgTemperature>
                 <rotationalPeriod>610624</rotationalPeriod>
                 <atmosphereDensity>34</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -251,7 +251,7 @@
                 <orbitalPhi>121</orbitalPhi>
                 <peakInsolation>0.6463336427987177</peakInsolation>
                 <peakInsolationNoAtmosphere>0.6968938094170424</peakInsolationNoAtmosphere>
-                <avgTemperature>287</avgTemperature>
+                <avgTemperature>218</avgTemperature>
                 <rotationalPeriod>217013</rotationalPeriod>
                 <atmosphereDensity>28</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -403,7 +403,7 @@
                 <orbitalPhi>-113</orbitalPhi>
                 <peakInsolation>0.5305253360896579</peakInsolation>
                 <peakInsolationNoAtmosphere>0.5813333333333334</peakInsolationNoAtmosphere>
-                <avgTemperature>196</avgTemperature>
+                <avgTemperature>208</avgTemperature>
                 <rotationalPeriod>73057</rotationalPeriod>
                 <atmosphereDensity>34</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -425,7 +425,7 @@
                 <orbitalPhi>43</orbitalPhi>
                 <peakInsolation>1.1373314716844662</peakInsolation>
                 <peakInsolationNoAtmosphere>1.2329155176401458</peakInsolationNoAtmosphere>
-                <avgTemperature>196</avgTemperature>
+                <avgTemperature>252</avgTemperature>
                 <rotationalPeriod>180925</rotationalPeriod>
                 <atmosphereDensity>30</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -490,7 +490,7 @@
                 <orbitalPhi>-67</orbitalPhi>
                 <peakInsolation>1.0595190139830104</peakInsolation>
                 <peakInsolationNoAtmosphere>1.1641154692201725</peakInsolationNoAtmosphere>
-                <avgTemperature>157</avgTemperature>
+                <avgTemperature>248</avgTemperature>
                 <rotationalPeriod>348224</rotationalPeriod>
                 <atmosphereDensity>35</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -512,7 +512,7 @@
                 <orbitalPhi>-244</orbitalPhi>
                 <peakInsolation>0.7498585623613574</peakInsolation>
                 <peakInsolationNoAtmosphere>0.8238851220711109</peakInsolationNoAtmosphere>
-                <avgTemperature>157</avgTemperature>
+                <avgTemperature>227</avgTemperature>
                 <rotationalPeriod>83479</rotationalPeriod>
                 <atmosphereDensity>35</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -534,7 +534,7 @@
                 <orbitalPhi>223</orbitalPhi>
                 <peakInsolation>0.8549809978593169</peakInsolation>
                 <peakInsolationNoAtmosphere>0.9393853176412083</peakInsolationNoAtmosphere>
-                <avgTemperature>157</avgTemperature>
+                <avgTemperature>235</avgTemperature>
                 <rotationalPeriod>73057</rotationalPeriod>
                 <atmosphereDensity>35</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -645,7 +645,7 @@
                 <orbitalPhi>-2</orbitalPhi>
                 <peakInsolation>0.4175068593740193</peakInsolation>
                 <peakInsolationNoAtmosphere>0.45259513031943915</peakInsolationNoAtmosphere>
-                <avgTemperature>225</avgTemperature>
+                <avgTemperature>196</avgTemperature>
                 <rotationalPeriod>67055</rotationalPeriod>
                 <atmosphereDensity>30</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -895,7 +895,7 @@
                 <orbitalPhi>-52</orbitalPhi>
                 <peakInsolation>0.3574000888793661</peakInsolation>
                 <peakInsolationNoAtmosphere>0.39057599171434376</peakInsolationNoAtmosphere>
-                <avgTemperature>418</avgTemperature>
+                <avgTemperature>321</avgTemperature>
                 <rotationalPeriod>64300</rotationalPeriod>
                 <atmosphereDensity>33</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -941,7 +941,7 @@
                 <orbitalPhi>-195</orbitalPhi>
                 <peakInsolation>0.7721627604497098</peakInsolation>
                 <peakInsolationNoAtmosphere>0.8506763656871414</peakInsolationNoAtmosphere>
-                <avgTemperature>705</avgTemperature>
+                <avgTemperature>390</avgTemperature>
                 <rotationalPeriod>52570</rotationalPeriod>
                 <atmosphereDensity>36</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -1007,7 +1007,7 @@
                 <orbitalPhi>-104</orbitalPhi>
                 <peakInsolation>1.0074043771406997</peakInsolation>
                 <peakInsolationNoAtmosphere>1.100917363766822</peakInsolationNoAtmosphere>
-                <avgTemperature>446</avgTemperature>
+                <avgTemperature>416</avgTemperature>
                 <rotationalPeriod>56888</rotationalPeriod>
                 <atmosphereDensity>33</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -1053,7 +1053,7 @@
                 <orbitalPhi>-49</orbitalPhi>
                 <peakInsolation>0.9490397205413007</peakInsolation>
                 <peakInsolationNoAtmosphere>1.0427295829579453</peakInsolationNoAtmosphere>
-                <avgTemperature>498</avgTemperature>
+                <avgTemperature>410</avgTemperature>
                 <rotationalPeriod>48677</rotationalPeriod>
                 <atmosphereDensity>35</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -1075,7 +1075,7 @@
                 <orbitalPhi>-211</orbitalPhi>
                 <peakInsolation>0.4456652939248574</peakInsolation>
                 <peakInsolationNoAtmosphere>0.49230306283744124</peakInsolationNoAtmosphere>
-                <avgTemperature>498</avgTemperature>
+                <avgTemperature>340</avgTemperature>
                 <rotationalPeriod>161206</rotationalPeriod>
                 <atmosphereDensity>37</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -1097,7 +1097,7 @@
                 <orbitalPhi>-19</orbitalPhi>
                 <peakInsolation>0.7087997488435929</peakInsolation>
                 <peakInsolationNoAtmosphere>0.7621934119609618</peakInsolationNoAtmosphere>
-                <avgTemperature>498</avgTemperature>
+                <avgTemperature>379</avgTemperature>
                 <rotationalPeriod>192000</rotationalPeriod>
                 <atmosphereDensity>27</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -1256,7 +1256,7 @@
                 <orbitalPhi>-155</orbitalPhi>
                 <peakInsolation>11.78315376189512</peakInsolation>
                 <peakInsolationNoAtmosphere>12.773438071017173</peakInsolationNoAtmosphere>
-                <avgTemperature>660</avgTemperature>
+                <avgTemperature>452</avgTemperature>
                 <rotationalPeriod>73057</rotationalPeriod>
                 <atmosphereDensity>30</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -1280,7 +1280,7 @@
                 <orbitalPhi>-174</orbitalPhi>
                 <peakInsolation>11.515940657622659</peakInsolation>
                 <peakInsolationNoAtmosphere>12.383432861105927</peakInsolationNoAtmosphere>
-                <avgTemperature>660</avgTemperature>
+                <avgTemperature>448</avgTemperature>
                 <rotationalPeriod>50574</rotationalPeriod>
                 <atmosphereDensity>27</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -1442,7 +1442,7 @@
                 <orbitalPhi>-9</orbitalPhi>
                 <peakInsolation>15.266545964202551</peakInsolation>
                 <peakInsolationNoAtmosphere>16.683673327327124</peakInsolationNoAtmosphere>
-                <avgTemperature>746</avgTemperature>
+                <avgTemperature>483</avgTemperature>
                 <rotationalPeriod>473812</rotationalPeriod>
                 <atmosphereDensity>33</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -1555,7 +1555,7 @@
                 <orbitalPhi>-149</orbitalPhi>
                 <peakInsolation>10.507739228611857</peakInsolation>
                 <peakInsolationNoAtmosphere>11.483127166417813</peakInsolationNoAtmosphere>
-                <avgTemperature>426</avgTemperature>
+                <avgTemperature>440</avgTemperature>
                 <rotationalPeriod>473812</rotationalPeriod>
                 <atmosphereDensity>33</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -1600,7 +1600,7 @@
                 <orbitalPhi>116</orbitalPhi>
                 <peakInsolation>8.672428215389317</peakInsolation>
                 <peakInsolationNoAtmosphere>9.426602284627146</peakInsolationNoAtmosphere>
-                <avgTemperature>426</avgTemperature>
+                <avgTemperature>419</avgTemperature>
                 <rotationalPeriod>105735</rotationalPeriod>
                 <atmosphereDensity>31</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -1689,7 +1689,7 @@
                 <orbitalPhi>133</orbitalPhi>
                 <peakInsolation>0.3046879825545451</peakInsolation>
                 <peakInsolationNoAtmosphere>0.3302946863622778</peakInsolationNoAtmosphere>
-                <avgTemperature>316</avgTemperature>
+                <avgTemperature>217</avgTemperature>
                 <rotationalPeriod>301860</rotationalPeriod>
                 <atmosphereDensity>30</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -1866,7 +1866,7 @@
                 <orbitalPhi>-340</orbitalPhi>
                 <peakInsolation>0.7661697915986266</peakInsolation>
                 <peakInsolationNoAtmosphere>0.8238851220711109</peakInsolationNoAtmosphere>
-                <avgTemperature>193</avgTemperature>
+                <avgTemperature>273</avgTemperature>
                 <rotationalPeriod>301860</rotationalPeriod>
                 <atmosphereDensity>27</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -1955,7 +1955,7 @@
                 <orbitalPhi>-133</orbitalPhi>
                 <peakInsolation>0.5787620496819302</peakInsolation>
                 <peakInsolationNoAtmosphere>0.6307869869065903</peakInsolationNoAtmosphere>
-                <avgTemperature>193</avgTemperature>
+                <avgTemperature>255</avgTemperature>
                 <rotationalPeriod>36446</rotationalPeriod>
                 <atmosphereDensity>32</atmosphereDensity>
                 <generateCraters>true</generateCraters>

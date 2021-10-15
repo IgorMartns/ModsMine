@@ -1,4 +1,16 @@
 {
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2021-10-12 19:27:10 -0300"
+    },
+    "done": true
+  },
+  "aoa3:overworld/by_the_books": {
+    "criteria": {
+      "legitimate": "2021-10-12 19:27:10 -0300"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2021-10-11 23:31:30 -0300"
@@ -8,6 +20,18 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2021-10-11 23:32:40 -0300"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2021-10-12 19:27:10 -0300"
+    },
+    "done": true
+  },
+  "aoa3:overworld/root": {
+    "criteria": {
+      "playerjoin": "2021-10-12 19:27:10 -0300"
     },
     "done": true
   },
